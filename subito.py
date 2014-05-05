@@ -165,4 +165,3 @@ if __name__ == '__main__':
 	sub = selectItem(openSubs.searchSubtitles(movie), ['SubFileName', 'SubDownloadsCnt'])
 	openSubs.download(sub)
 	openSubs.unZip(True)
-
