@@ -9,7 +9,7 @@ How To Use
 ==========
 
 Run:
-$ python subito.py <"path">
+	$ python subito.py <"path">
 
 1. Select movie(if any)
 2. Select sub
